@@ -1,6 +1,10 @@
 # Learn More About CSS Pseudo-Selectors by Building a Balance Sheet
 
+![image](https://github.com/user-attachments/assets/41b61cc0-a329-48b9-ac75-a4bc826200e3)
+
 This project is part of the **FreeCodeCamp** curriculum, where you'll deepen your understanding of **CSS pseudo-selectors** by creating a **Balance Sheet**.
+
+[Learn More About CSS Pseudo-Selectors by Building a Balance Sheet](https://freecodecamp-responsive-web-design.github.io/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/)
 
 ## In this project, you will:
 - Explore **CSS pseudo-selectors** such as `:hover`, `:focus`, `:nth-child()`, and `::before`/`::after` to enhance your design.
